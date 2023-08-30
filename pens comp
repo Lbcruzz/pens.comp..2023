@@ -4,11 +4,24 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Quer bombons? o vini tem</title>
+    <title>CHAPA VELHA</title>
+<link rel="stylesheet" href="LB.css">
 </head>
 <body>
-    <h1>Bombons Vini, do bom e do melhor</h1>
-   <strong><p>Tem bombom de beijinho,</p></strong>
-    <strong><p>Brigadeiro</p></strong>
+    <h1>CHAPA VELHA</h1>
+  <ul>Endereço:   
+    <li R. Honorata Baldo, 809 - Guarani, Colombo - PR, 83408-507 </li>
+
+    Horas: 
+
+    <li>quarta-feira	14:00–22:00</li>
+    <li>quinta-feira	14:00–22:00</li>
+    <li>sexta-feira	14:00–22:00</li>
+    <li>sábado	12:00–22:00</li>
+    domingo	Fechado
+    segunda-feira	14:00–22:00
+    terça-feira	14:00–22:00
+    
+    Telefone: (41) 99929-5060
 </body>
 </html>
