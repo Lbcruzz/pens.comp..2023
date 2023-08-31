@@ -1,14 +1,25 @@
-<!DOCTYPE html>
-<html lang="PT-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>vava</title>
-</head>
-<body>
-    <h1>Vava</h1>
-<strong><p>Valorant é um jogo de fps online</p></strong>
-<img src="https://i0.wp.com/jornaldosjogos.com.br/wp-content/uploads/2022/06/valorant-dicas-para-jogar-pc.jpg?fit=800%2C450&ssl=1">
-</body>
-</html>
+h1 { font-size: xx-large;
+     text-align: center;
+    background-color: bisque;
+    
+}
+ul { font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+}
+body { background-color: darkgray;
+
+
+
+}
+.mim { font-size: larger;
+       
+
+
+}
+div { text-align: center;
+
+
+
+}
