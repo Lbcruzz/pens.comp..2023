@@ -8,7 +8,7 @@
 <link rel="stylesheet" href="LB.css">
 </head>
 <body>
-    <h1>CHAPA VELHA</h1>
+    <h1>LANCHONETE CHAPA VELHA</h1>
     <li>CARDAPIO</li>
     <img class="img1" src="https://lh3.googleusercontent.com/p/AF1QipNlN0uC6NyEY7n02KiSeYm-f64SsFhxWuwqiCHF=s680-w680-h510"><img class="img2" src="https://lh3.googleusercontent.com/p/AF1QipMpztpFkb_Uh0tROZ6VD0crhRl4DkYC8DjXI0_S=s680-w680-h510">
    <div class="center"></div>
@@ -20,16 +20,12 @@
 
     <p>Horas:</p> 
 
-    <li>quarta-feira	14:00–22:00</li>
-    <li>quinta-feira	14:00–22:00</li>
-    <li>sexta-feira	14:00–22:00</li>
-    <li>sábado	12:00–22:00</li>
-    <li>domingo	Fechado</li>
-    <li>segunda-feira	14:00–22:00</li>
-    <li>terça-feira	14:00–22:00</li>
+    <li>segunda à sexta abre 14:00 fecha as 22:00</li>
+    <li>sabado abre 12:00 fecha 22:00</li>
+    <li>domingo fechado</li>
     
   <p class="mim">Telefone: (41) 99929-5060</p>
-
+   <a href="https://www.facebook.com/chapavelhatradicao/">https://www.facebook.com/chapavelhatradicao/</a>
   
   
 </body>
