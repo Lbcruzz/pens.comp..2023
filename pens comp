@@ -25,8 +25,8 @@
     <li>domingo fechado</li>
     
   <p class="mim">Telefone: (41) 99929-5060</p>
-   <a href="https://www.facebook.com/chapavelhatradicao/">https://www.facebook.com/chapavelhatradicao/</a>
-   <p><a href="file:///C:/Users/Visitante/Desktop/indexx.html">HOME</a></p>
+  <nav> <a href="https://www.facebook.com/chapavelhatradicao/">Facebook</a></nav>
+  <p><a href="file:///C:/Users/Visitante/Desktop/indexx.html">HOME</a></p>
   
   
 </body>
