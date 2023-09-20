@@ -31,3 +31,10 @@ body { background-color: darkgray;
 
 
 }
+nav a { color: dodgerblue;
+
+
+
+
+
+}
