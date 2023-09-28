@@ -1,4 +1,4 @@
-h1 { font-size: xx-large;
+h1 { font-size: 100px;
     text-align: center;
    background-color: dimgray;
    
@@ -21,18 +21,24 @@ body { background-color: darkgray;
 }
 
 
-.img1 {width: 300px;
+.img1 {width: 400px;
 
 
 
 }
-.img2 { width: 300px;
+.img2 { width: 400px;
 
 
 
 }
 nav a { color: dodgerblue;
 
+
+
+
+
+}
+img { font-size: 300px;
 
 
 
