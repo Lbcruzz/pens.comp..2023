@@ -32,6 +32,7 @@ body { background-color: darkgray;
 
 }
 nav a { color: dodgerblue;
+    
 
 
 
@@ -40,6 +41,14 @@ nav a { color: dodgerblue;
 }
 img { font-size: 300px;
 
+
+
+
+}
+footer
+{ background-color: dimgrey;
+    text-align: center;
+    font-size: 30px;
 
 
 
